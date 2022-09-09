@@ -600,7 +600,3 @@ YunCharging智慧充电系统以微信、公众号为C端主要入口，为充�
 #### 故障报修
 
 ![image-20220827180756868](https://raw.githubusercontent.com/caoyingde/SmartCloudWhitePaper/master/img/202209091410386.png)
-
-
-
-# 商务微信：13480650847
